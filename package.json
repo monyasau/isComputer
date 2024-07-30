@@ -1,0 +1,30 @@
+{
+  "name": "is-computer",
+  "version": "1.0.0",
+  "description": "A highly sophisticated, utility that always returns true. Because, well, your code will run on a computer!",
+  "main": "index.js",
+  "module": "index.mjs",
+  "types": "index.d.ts",
+  "exports": {
+    "require": "./index.js",
+    "import": "./index.mjs"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monyasau/isComputer.git"
+  },
+  "keywords": [
+    "computer",
+    "device info",
+    "device"
+  ],
+  "author": "Olanrewaju Olajide",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/monyasau/isComputer/issues"
+  },
+  "homepage": "https://github.com/monyasau/isComputer#readme"
+}

@@ -53,4 +53,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 <a href="https://monyasau.netlify.app" target="_blank">Olanrewaju Olajide</a>
 
 #### Misc
-<a href="https://x.com/_monyasau" target="_blank">_monyasau</a> on Twitter."# isComputer" 
+<a href="https://x.com/_monyasau" target="_blank">_monyasau</a> on Twitter.
